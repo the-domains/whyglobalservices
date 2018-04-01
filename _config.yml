@@ -1,0 +1,19 @@
+name: whyglobalservices
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+title: 'webdevelopment, digital marketing'
+author: {}
+color:
+  lightness: 0.059853659491020644
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  saturation: 0.49021836521341894
+  brandStrength: 0.8987093753876885
+  rhythmicContrast: 0.13676836228388556
